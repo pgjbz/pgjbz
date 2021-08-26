@@ -13,7 +13,7 @@
 
 - I'm student of science computer
 - Java Developer about 2 years
-- I’m currently learning more about Microservices
+- I’m currently learning more about Microservices(Spring Cloud) and leaning Rust
 - Technology lover <3
 - Languages: Português <br/>
 
