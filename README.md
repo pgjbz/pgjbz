@@ -11,13 +11,14 @@
 
 ### About me:
 
+- From Brazil <img style="display: inline" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/svg/country-4x3/br.svg" width="11px"/>
 - I'm student of science computer
 - Java Developer about 2 years
-- I’m currently learning more about Microservices(Spring Cloud) and leaning Rust
-- Technology lover <3
+- I’m currently learning more about Kubernetes, Rust and start learn GoLang
+- Technology lover
 - Languages: Português, English (basic)<br/>
 
-## Knowledge of technologies
+## Knowledge and practice of technologies
 <div style="display: inline_block">
   <br>
   <img align="center" alt="pgjbz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -32,6 +33,8 @@
   <img align="center" alt="pgjbz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="pgjbz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pgjbz-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
+   <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   </div>
   
   ## Contacts
