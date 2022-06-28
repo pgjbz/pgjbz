@@ -1,24 +1,15 @@
-### Hi there 👋
 
-<hr>
+## 🚀 About Me
 
-<div>
-  <a href="https://github.com/pgjbz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgjbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjbz&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-<div>
+I'm a backend develor from Brazil.
 
-### About me:
+Studenty of Science Computer, work with Java for more than 2 years.
+Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native language is portuguese and i improve my english skills every day.
 
-- From Brazil <img style="display: inline" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/svg/country-4x3/br.svg" width="11px"/>
-- I'm student of science computer
-- Java Developer about 2 years
-- I’m currently learning more about Kubernetes, Rust and start learn GoLang
-- Technology lover
-- Languages: Português, English (basic)<br/>
 
-## Knowledge and practice of technologies
+
+
+## 🛠 Skills
 <div style="display: inline_block">
   <br>
   <img align="center" alt="pgjbz-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -36,14 +27,22 @@
   </div>
    <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   </div>
-  
-  ## Contacts
- 
-<div> 
-  <a href = "mailto: contact@pgjbz.dev">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogjbezerra/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgjbzr)
+
+
+
+## Others
+
+🧠 I'm currently learning more about Rust, Golang and Kubernetes
+
+<div>
+  <a href="https://github.com/pgjbz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgjbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjbz&layout=compact&langs_count=16&theme=dracula"/>
   </a>
-  <a href="https://www.linkedin.com/in/paulogjbezerra/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-</div>
+<div>
+
+
