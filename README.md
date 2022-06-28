@@ -27,12 +27,6 @@ Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
   </div>
    <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   </div>
-  
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogjbezerra/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgjbzr)
-
 
 
 ## Others
@@ -47,3 +41,9 @@ Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
 <div>
 
 
+  
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogjbezerra/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgjbzr)
+  
