@@ -24,8 +24,9 @@ Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
   <img align="center" alt="pgjbz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="pgjbz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pgjbz-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </div>
-   <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">  
+</div>
+   
   </div>
 
 
@@ -44,10 +45,9 @@ Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
   
 ## 🔗 Links
 
-<a href="mailto: contact@pgjbz.dev">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-</a>
-  
+  <a href = "mailto: contact@pgjbz.dev">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  </a>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogjbezerra/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgjbzr)
 
