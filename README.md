@@ -44,6 +44,7 @@ Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
   
 ## 🔗 Links
 
+[![contact](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto: contact@pgjbz.dev)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulogjbezerra/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pgjbzr)
-  
+
