@@ -1,10 +1,10 @@
 
 ## 🚀 About Me
 
-I'm a backend develor from Brazil.
+I'm a backend developer from Brazil.
 
 Studenty of Science Computer, work with Java for more than 2 years.
-Actuality i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native language is portuguese and i improve my english skills every day.
+Currently i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native language is portuguese and i improve my english skills every day.
 
 
 
