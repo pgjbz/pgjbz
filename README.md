@@ -4,9 +4,7 @@
 I'm a backend developer from Brazil.
 
 Studenty of Science Computer, work with Java for more than 2 years.
-Currently i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native language is portuguese and i improve my english skills every day.
-
-
+Currently i'm a mid-level developer at [PicPay](https://picpay.com/). My native language is portuguese and i improve my english skills every day.
 
 
 ## 🛠 Skills
@@ -26,13 +24,8 @@ Currently i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
   <img align="center" alt="pgjbz-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="pgjbz-k8s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">  
 </div>
-   
-  </div>
-
 
 ## Others
-
-🧠 I'm currently learning more about Rust, Golang and Kubernetes
 
 <div>
   <a href="https://github.com/pgjbz">
@@ -40,7 +33,6 @@ Currently i'm a mid-level developer at [Ci&T](https://ciandt.com/). My native la
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjbz&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 <div>
-
 
   
 ## 🔗 Links
