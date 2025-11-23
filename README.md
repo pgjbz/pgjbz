@@ -4,7 +4,7 @@
 I'm a backend developer from Brazil.
 
 Studenty of Science Computer, work with Java for more than 2 years.
-Currently i'm a mid-level developer at [PicPay](https://picpay.com/). My native language is portuguese and i improve my english skills every day.
+Currently i'm a senior software engineer at [PicPay](https://picpay.com/). My native language is portuguese and i improve my english skills every day.
 
 
 ## 🛠 Skills
